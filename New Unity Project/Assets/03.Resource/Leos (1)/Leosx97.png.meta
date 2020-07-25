@@ -1,0 +1,1212 @@
+fileFormatVersion: 2
+guid: 565ae36ebea0de04c964cf1d0e50e88a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2928162078411738170
+    second: Leosx97_0
+  - first:
+      213: 1452402099677818318
+    second: Leosx97_1
+  - first:
+      213: -1100614313476610392
+    second: Leosx97_2
+  - first:
+      213: 7367903441728720257
+    second: Leosx97_3
+  - first:
+      213: 4540449918567311204
+    second: Leosx97_4
+  - first:
+      213: -1075367056444538880
+    second: Leosx97_5
+  - first:
+      213: -2842613572177428763
+    second: Leosx97_6
+  - first:
+      213: 8840684629223360702
+    second: Leosx97_7
+  - first:
+      213: 5217104275262411607
+    second: Leosx97_8
+  - first:
+      213: -9143700169279802827
+    second: Leosx97_9
+  - first:
+      213: 9107293712686360679
+    second: Leosx97_10
+  - first:
+      213: -8649778457323579827
+    second: Leosx97_11
+  - first:
+      213: 5499482969378128908
+    second: Leosx97_12
+  - first:
+      213: -7460488682822103355
+    second: Leosx97_13
+  - first:
+      213: 8814437867048192133
+    second: Leosx97_14
+  - first:
+      213: 6147961367741431295
+    second: Leosx97_15
+  - first:
+      213: 5811900495876937231
+    second: Leosx97_16
+  - first:
+      213: -8456482525087727606
+    second: Leosx97_17
+  - first:
+      213: -943558078760102899
+    second: Leosx97_18
+  - first:
+      213: 1223660704950261730
+    second: Leosx97_19
+  - first:
+      213: 696222163728362977
+    second: Leosx97_20
+  - first:
+      213: 8306613710031706870
+    second: Leosx97_21
+  - first:
+      213: 4910022847686937002
+    second: Leosx97_22
+  - first:
+      213: 3694292880594073417
+    second: Leosx97_23
+  - first:
+      213: 7111461854755733008
+    second: Leosx97_24
+  - first:
+      213: 6569657900298154333
+    second: Leosx97_25
+  - first:
+      213: -5415555909598489861
+    second: Leosx97_26
+  - first:
+      213: -9062350147875171283
+    second: Leosx97_27
+  - first:
+      213: 3048920673934381539
+    second: Leosx97_28
+  - first:
+      213: -6025470399231881785
+    second: Leosx97_29
+  - first:
+      213: -8961442644150792413
+    second: Leosx97_30
+  - first:
+      213: 8311716661185757749
+    second: Leosx97_31
+  - first:
+      213: 6545042454490482240
+    second: Leosx97_32
+  - first:
+      213: 7440743453221081247
+    second: Leosx97_33
+  - first:
+      213: -7028404514947573060
+    second: Leosx97_34
+  - first:
+      213: -6914817102048790644
+    second: Leosx97_35
+  - first:
+      213: -3610061581855024969
+    second: Leosx97_36
+  - first:
+      213: 944416649104813581
+    second: Leosx97_37
+  - first:
+      213: -502105384942781697
+    second: Leosx97_38
+  - first:
+      213: -3564247084833053707
+    second: Leosx97_39
+  - first:
+      213: 5646730914626773118
+    second: Leosx97_40
+  - first:
+      213: -8335295883913812212
+    second: Leosx97_41
+  - first:
+      213: 2656300295538062481
+    second: Leosx97_42
+  - first:
+      213: 1911343756820731300
+    second: Leosx97_43
+  - first:
+      213: 3871825626669339584
+    second: Leosx97_44
+  - first:
+      213: 1783456335405825723
+    second: Leosx97_45
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 96
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Leosx97_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 210
+        width: 72
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3c408075ebe2a820800000000000000
+      internalID: 2928162078411738170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leosx97_1
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 210
+        width: 72
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecde356b308f72410800000000000000
+      internalID: 1452402099677818318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leosx97_2
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 210
+        width: 78
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a6248afc15d9b0f0800000000000000
+      internalID: -1100614313476610392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leosx97_3
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 210
+        width: 78
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18d4e97b42d004660800000000000000
+      internalID: 7367903441728720257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leosx97_4
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 210
+        width: 72
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 467e7a4052be20f30800000000000000
+      internalID: 4540449918567311204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leosx97_5
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 210
+        width: 72
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00047751c578311f0800000000000000
+      internalID: -1075367056444538880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leosx97_6
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 108
+        width: 72
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eef8a454020d88d0800000000000000
+      internalID: -2842613572177428763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leosx97_7
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 108
+        width: 72
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb84d1094db60ba70800000000000000
+      internalID: 8840684629223360702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leosx97_8
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 108
+        width: 78
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 753103b62b0e66840800000000000000
+      internalID: 5217104275262411607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leosx97_9
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 108
+        width: 78
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 532f565342d0b1180800000000000000
+      internalID: -9143700169279802827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leosx97_10
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 108
+        width: 72
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 768a1d1116b936e70800000000000000
+      internalID: 9107293712686360679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leosx97_11
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 108
+        width: 72
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d46d6615250d5f780800000000000000
+      internalID: -8649778457323579827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leosx97_12
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 6
+        width: 42
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0408168f96125c40800000000000000
+      internalID: 5499482969378128908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leosx97_13
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 6
+        width: 42
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ce01910215077890800000000000000
+      internalID: -7460488682822103355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leosx97_14
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 60
+        width: 96
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 588c8280a8c235a70800000000000000
+      internalID: 8814437867048192133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leosx97_15
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 6
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffd7d096a42f15550800000000000000
+      internalID: 6147961367741431295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leosx97_16
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 72
+        width: 48
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0659ae45b408a050800000000000000
+      internalID: 5811900495876937231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leosx97_17
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 96
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0009d2a2f984aa80800000000000000
+      internalID: -8456482525087727606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leosx97_18
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 96
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d04dd823deec7e2f0800000000000000
+      internalID: -943558078760102899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leosx97_19
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 12
+        width: 48
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e71a2c8de05bf010800000000000000
+      internalID: 1223660704950261730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leosx97_20
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 6
+        width: 96
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20.283936, y: 23.169632}
+        - {x: 20.283936, y: 29.222534}
+        - {x: 21.43686, y: 29.222534}
+        - {x: 21.43686, y: 23.169632}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ed68c18e5a79a900800000000000000
+      internalID: 696222163728362977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leosx97_21
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 84
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fa54d0b825074370800000000000000
+      internalID: 8306613710031706870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leosx97_22
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 84
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa98e6bf3c7e32440800000000000000
+      internalID: 4910022847686937002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leosx97_23
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 78
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 947701c3dc3c44330800000000000000
+      internalID: 3694292880594073417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leosx97_24
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 78
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01eb476f0ecf0b260800000000000000
+      internalID: 7111461854755733008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leosx97_25
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 72
+        width: 24
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d513c138d0d1c2b50800000000000000
+      internalID: 6569657900298154333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leosx97_26
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 60
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf25d13d79418d4b0800000000000000
+      internalID: -5415555909598489861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leosx97_27
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 60
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2411bd0e801c3280800000000000000
+      internalID: -9062350147875171283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leosx97_28
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 54
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e11436f231ff4a20800000000000000
+      internalID: 3048920673934381539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leosx97_29
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 54
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cd0721a89a316ca0800000000000000
+      internalID: -6025470399231881785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leosx97_30
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 54
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32fca58156f82a380800000000000000
+      internalID: -8961442644150792413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leosx97_31
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 54
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5324ca71446295370800000000000000
+      internalID: 8311716661185757749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leosx97_32
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 48
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04681cb6f69a4da50800000000000000
+      internalID: 6545042454490482240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leosx97_33
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 48
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f905e0a7fb4d24760800000000000000
+      internalID: 7440743453221081247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leosx97_34
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 6
+        width: 96
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cba5ccce457167e90800000000000000
+      internalID: -7028404514947573060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leosx97_35
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 42
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c87f5916b72a900a0800000000000000
+      internalID: -6914817102048790644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leosx97_36
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 42
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b81f344e1c76edc0800000000000000
+      internalID: -3610061581855024969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leosx97_37
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 42
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0e6bd940fd3b1d00800000000000000
+      internalID: 944416649104813581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leosx97_38
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 36
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffabcaa00d92809f0800000000000000
+      internalID: -502105384942781697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leosx97_39
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 36
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f3edc81920498ec0800000000000000
+      internalID: -3564247084833053707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leosx97_40
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 30
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e70ab8469d73d5e40800000000000000
+      internalID: 5646730914626773118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leosx97_41
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 24
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c07aa8d4e84135c80800000000000000
+      internalID: -8335295883913812212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leosx97_42
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 24
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 194bf4c8b031dd420800000000000000
+      internalID: 2656300295538062481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leosx97_43
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 18
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a5d5f42505768a10800000000000000
+      internalID: 1911343756820731300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leosx97_44
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 18
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c351e5c4ec7bb530800000000000000
+      internalID: 3871825626669339584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leosx97_45
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 6
+        width: 36
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbeb840861c10c810800000000000000
+      internalID: 1783456335405825723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
