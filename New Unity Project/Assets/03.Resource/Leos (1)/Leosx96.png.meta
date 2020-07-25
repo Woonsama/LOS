@@ -1,0 +1,1220 @@
+fileFormatVersion: 2
+guid: 1910ab6291ff0544b91389839c07b702
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3298817867609159045
+    second: Leosx96_0
+  - first:
+      213: 7069581815680347056
+    second: Leosx96_1
+  - first:
+      213: 3197424265895520465
+    second: Leosx96_2
+  - first:
+      213: -918254844507071711
+    second: Leosx96_3
+  - first:
+      213: -133743489116769533
+    second: Leosx96_4
+  - first:
+      213: 6417619076140021946
+    second: Leosx96_5
+  - first:
+      213: -322641108055393896
+    second: Leosx96_6
+  - first:
+      213: -2278840151486847954
+    second: Leosx96_7
+  - first:
+      213: 4546082593396422601
+    second: Leosx96_8
+  - first:
+      213: 4336192899435389670
+    second: Leosx96_9
+  - first:
+      213: -4942761566018398262
+    second: Leosx96_10
+  - first:
+      213: -7639319216808202886
+    second: Leosx96_11
+  - first:
+      213: -6627794096782658916
+    second: Leosx96_12
+  - first:
+      213: -5177907333968517789
+    second: Leosx96_13
+  - first:
+      213: 3044829447855633600
+    second: Leosx96_14
+  - first:
+      213: 2450176407706827200
+    second: Leosx96_15
+  - first:
+      213: 8579659806525291343
+    second: Leosx96_16
+  - first:
+      213: 9091123464154537353
+    second: Leosx96_17
+  - first:
+      213: -7822120430217017558
+    second: Leosx96_18
+  - first:
+      213: -2430789811568879466
+    second: Leosx96_19
+  - first:
+      213: -3244258170582549147
+    second: Leosx96_20
+  - first:
+      213: -4624767627884305025
+    second: Leosx96_21
+  - first:
+      213: 7062401242907801
+    second: Leosx96_22
+  - first:
+      213: -3051999308732091270
+    second: Leosx96_23
+  - first:
+      213: 1669931365588490555
+    second: Leosx96_24
+  - first:
+      213: -6501579818485117241
+    second: Leosx96_25
+  - first:
+      213: -4805829710887564230
+    second: Leosx96_26
+  - first:
+      213: 3343260710933319663
+    second: Leosx96_27
+  - first:
+      213: -6918464937041729957
+    second: Leosx96_28
+  - first:
+      213: 1317649518116097052
+    second: Leosx96_29
+  - first:
+      213: -1679478295194691638
+    second: Leosx96_30
+  - first:
+      213: 3546286853466628500
+    second: Leosx96_31
+  - first:
+      213: 8716910754944784903
+    second: Leosx96_32
+  - first:
+      213: -5027607883558208504
+    second: Leosx96_33
+  - first:
+      213: 8226828587563744197
+    second: Leosx96_34
+  - first:
+      213: 398790720624940451
+    second: Leosx96_35
+  - first:
+      213: -3735678648645275350
+    second: Leosx96_36
+  - first:
+      213: 5515781008122363353
+    second: Leosx96_37
+  - first:
+      213: 1816522138185884532
+    second: Leosx96_38
+  - first:
+      213: 7353414850553169207
+    second: Leosx96_39
+  - first:
+      213: 2244762970030068250
+    second: Leosx96_40
+  - first:
+      213: -561382539882975811
+    second: Leosx96_41
+  - first:
+      213: -2000837745210729173
+    second: Leosx96_42
+  - first:
+      213: -3860320153014305450
+    second: Leosx96_43
+  - first:
+      213: 4870808228838247492
+    second: Leosx96_44
+  - first:
+      213: 8336890884529773748
+    second: Leosx96_45
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Leosx96_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 210
+        width: 72
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7ac17690ae3832d0800000000000000
+      internalID: -3298817867609159045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leosx96_1
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 210
+        width: 72
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bb203284333c1260800000000000000
+      internalID: 7069581815680347056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leosx96_2
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 210
+        width: 78
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d8aaecdd688f5c20800000000000000
+      internalID: 3197424265895520465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leosx96_3
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 210
+        width: 78
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12bdfd38514b143f0800000000000000
+      internalID: -918254844507071711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leosx96_4
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 210
+        width: 72
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3037c285109d42ef0800000000000000
+      internalID: -133743489116769533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leosx96_5
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 210
+        width: 72
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab8b8193c86ff0950800000000000000
+      internalID: 6417619076140021946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leosx96_6
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 108
+        width: 72
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8997b642f9fb58bf0800000000000000
+      internalID: -322641108055393896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leosx96_7
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 108
+        width: 72
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e24aabeb4feef50e0800000000000000
+      internalID: -2278840151486847954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leosx96_8
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 108
+        width: 78
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c7faf2580ee61f30800000000000000
+      internalID: 4546082593396422601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leosx96_9
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 108
+        width: 78
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e2ea68c7704d2c30800000000000000
+      internalID: 4336192899435389670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leosx96_10
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 108
+        width: 72
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac715082b88c76bb0800000000000000
+      internalID: -4942761566018398262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leosx96_11
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 108
+        width: 72
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7de45ca5afabf590800000000000000
+      internalID: -7639319216808202886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leosx96_12
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 6
+        width: 42
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c92b6d072685504a0800000000000000
+      internalID: -6627794096782658916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leosx96_13
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 6
+        width: 42
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 365aae6a6b06428b0800000000000000
+      internalID: -5177907333968517789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leosx96_14
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 60
+        width: 96
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c475192048614a20800000000000000
+      internalID: 3044829447855633600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leosx96_15
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 6
+        width: 102
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c978621676c00220800000000000000
+      internalID: 2450176407706827200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leosx96_16
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 72
+        width: 48
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4bf2a51323111770800000000000000
+      internalID: 8579659806525291343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leosx96_17
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 96
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98d5622bf982a2e70800000000000000
+      internalID: 9091123464154537353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leosx96_18
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 96
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a27c69e79ee327390800000000000000
+      internalID: -7822120430217017558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leosx96_19
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 12
+        width: 48
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6985cc59b89144ed0800000000000000
+      internalID: -2430789811568879466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leosx96_20
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 6
+        width: 90
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56db4c6f1641af2d0800000000000000
+      internalID: -3244258170582549147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leosx96_21
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 84
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f75ea33785681dfb0800000000000000
+      internalID: -4624767627884305025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leosx96_22
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 84
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 994485d6737191000800000000000000
+      internalID: 7062401242907801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leosx96_23
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 78
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7439448cce15a5d0800000000000000
+      internalID: -3051999308732091270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leosx96_24
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 78
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b395f25bab9cc2710800000000000000
+      internalID: 1669931365588490555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leosx96_25
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 72
+        width: 24
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ce88581a9fb5c5a0800000000000000
+      internalID: -6501579818485117241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leosx96_26
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 60
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3c478f17534e4db0800000000000000
+      internalID: -4805829710887564230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leosx96_27
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 60
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fef43ba37e5a56e20800000000000000
+      internalID: 3343260710933319663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leosx96_28
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 54
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b56e1ac9bccacff90800000000000000
+      internalID: -6918464937041729957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leosx96_29
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 54
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1c46c9614b394210800000000000000
+      internalID: 1317649518116097052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leosx96_30
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 54
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac711f6836b41b8e0800000000000000
+      internalID: -1679478295194691638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leosx96_31
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 54
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 491248caa11f63130800000000000000
+      internalID: 3546286853466628500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leosx96_32
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 48
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70a144fb520b8f870800000000000000
+      internalID: 8716910754944784903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leosx96_33
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 48
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80c3f8e64495a3ab0800000000000000
+      internalID: -5027607883558208504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leosx96_34
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 6
+        width: 96
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cbf3c543019b2270800000000000000
+      internalID: 8226828587563744197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leosx96_35
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 42
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a5529a2c0ac88500800000000000000
+      internalID: 398790720624940451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leosx96_36
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 42
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a21bc70cf04382cc0800000000000000
+      internalID: -3735678648645275350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leosx96_37
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 42
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ddbaff5a9dfb8c40800000000000000
+      internalID: 5515781008122363353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leosx96_38
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 36
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 473e335a245953910800000000000000
+      internalID: 1816522138185884532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leosx96_39
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 36
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 735cd45b8d39c0660800000000000000
+      internalID: 7353414850553169207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leosx96_40
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 30
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a12d7992700072f10800000000000000
+      internalID: 2244762970030068250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leosx96_41
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 24
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbd2b27ed819538f0800000000000000
+      internalID: -561382539882975811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leosx96_42
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 24
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2d558feba89b34e0800000000000000
+      internalID: -2000837745210729173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leosx96_43
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 18
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65dfc4016436d6ac0800000000000000
+      internalID: -3860320153014305450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leosx96_44
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 18
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44c04f80746989340800000000000000
+      internalID: 4870808228838247492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leosx96_45
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 6
+        width: 36
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bcd697b61692b370800000000000000
+      internalID: 8336890884529773748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
