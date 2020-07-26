@@ -10,8 +10,8 @@ public class Player : ObjectBase
     protected float maxDelay;
     protected float curDelay;
 
-    protected int hp;
-    protected int bomb;
+    [Header("플레이어의 체력")]
+    public int hp;
 
     protected bool canUP;
     protected bool canDOWN;
@@ -35,7 +35,6 @@ public class Player : ObjectBase
         renderer = GetComponent<SpriteRenderer>();
         swordRenderer = sword.GetComponent<SpriteRenderer>();
         anim = GetComponent<Animator>();
-        bomb = 3;
         anim.SetInteger("Horizontal", 1);
         yield break;
     }
@@ -87,7 +86,7 @@ public class Player : ObjectBase
             curDelay = 0;
         }
 
-        if (Input.GetKey(KeyCode.Z)&&gameObject.tag != "Player_Attack")
+        if (Input.GetKeyDown(KeyCode.Z) && gameObject.tag != "Player_Attack")
         {
             Attack();
         }
@@ -111,11 +110,6 @@ public class Player : ObjectBase
         else canRIGHT = true;
         if (leftRay.collider != null) canLEFT = false;
         else canLEFT = true;
-
-        if (upRay.collider == null) Debug.Log(1);
-        if (leftRay.collider == null) Debug.Log(2);
-        if (rightRay.collider == null) Debug.Log(3);
-        if (downRay.collider == null) Debug.Log(4);
     }
 
 
@@ -141,25 +135,5 @@ public class Player : ObjectBase
 
         
 
-    }
-
-    public int getbomb()
-    {
-        return bomb;
-    }
-
-    public int getHp()
-    {
-        return hp;
-    }
-
-    public void setbomb(int newbomb)
-    {
-        bomb = newbomb;
-    }
-
-    public Vector3 getPos()
-    {
-        return transform.position;
     }
 }

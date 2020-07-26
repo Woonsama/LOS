@@ -6,6 +6,8 @@ TagManager:
   tags:
   - Player_Attack
   - Wall
+  - Sword
+  - Enemy
   layers:
   - Default
   - TransparentFX
